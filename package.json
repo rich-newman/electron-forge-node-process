@@ -1,0 +1,14 @@
+{
+  "name": "electronforge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rich Newman",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-forge": "^5.2.4"
+  }
+}
