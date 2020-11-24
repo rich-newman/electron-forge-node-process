@@ -18,7 +18,7 @@ Subject: Test subject
 Test mail`;
         simpleParser(source, {}, (err, mail) => {
             process.send({ type: "TEST_RESULTS", data: mail });
-			logger.log('Test successfully run, mail=')
+            logger.log('Test successfully run, mail=')
             logger.log(mail);
         });
     }
