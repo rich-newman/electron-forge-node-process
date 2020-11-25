@@ -12,5 +12,5 @@ To run:
 
 An Electron window with a 'Run Test' button should appear.  Clicking the button runs the test.  Output is logged to files stdout.log and serverout.log in the myapp folder.
 
-This has been tested on Windows and Ubuntu.  Electron Forge packaging of the app with 'npm run make' works on Windows. Electron Forge can't package on Linux.
+This has been tested on Windows and Ubuntu.  Electron Forge packaging of the app with 'npm run make' works on Windows.
 
